@@ -1,5 +1,6 @@
 # Nana Hughes-Lartey # 
-Director <br>
-@uncovercommerce <br>
+Web Developer / Technical Director / Co-Founder @uncovercommerce<br>
+<br>
+
 @NanaOHL <br>
-@spctrcrtv
+
