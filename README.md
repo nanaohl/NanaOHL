@@ -1,5 +1,7 @@
 # Nana Hughes-Lartey # 
-Web Developer / Technical Director / Co-Founder @uncovercommerce<br>
+ Co-Founder @uncovercommerce
+ Co-Founder @parallelcommerce
+ 
 <br>
 
 @NanaOHL <br>
