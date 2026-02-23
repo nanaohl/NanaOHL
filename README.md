@@ -1,11 +1,19 @@
-Designer & Developer based in Glasgow. I co-founded **Uncover Commerce**, where I spend my time building web and mobile experiences .
+### Hey, I'm Nana
 
-Over the years, I’ve also had a hand in running **Nextfootball.com, Illicit Magazine, Founders Podcast, and Made By Logic**, which means I’ve juggled everything from code to  strategy (sometimes both at once). 
+Designer, developer, and serial starter of things — based in Glasgow.
 
-Im a programmer - I love bringing ideas to life, solving tricky problems, and figuring out what’s next in tech and business.
+I co-founded **Uncover Commerce**, where I build web and mobile experiences that people actually want to use. Before that (and alongside it), I've built and run **Nextfootball.com**, **Illicit Magazine**, **Founders Podcast**, and **Made By Logic** — so yeah, I've worn every hat from writing code to writing strategy decks, sometimes in the same afternoon.
 
-If AI takes over its been a fun ride.
+At my core, I'm a programmer. I like taking a vague idea, breaking it down, and turning it into something real. The messier the problem, the better.
 
-[Blog](https://nanahugheslartey.com)
-[Youtube](https://youtube.com/nanahugheslartey) 
-[BlueSky](https://bsky.app/profile/nanahugheslartey.com)
+```
+currently: shipping things at Uncover Commerce
+previously: too many side projects to list
+always: curious about what's next
+```
+
+If AI takes over, it's been a fun ride.
+
+---
+
+[Blog](https://nanahugheslartey.com) · [YouTube](https://youtube.com/nanahugheslartey) · [BlueSky](https://bsky.app/profile/nanahugheslartey.com)
