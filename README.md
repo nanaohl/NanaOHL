@@ -1,6 +1,6 @@
 ### Hey, I'm Nana
 
-Designer, developer, and serial starter of things — based in Glasgow.
+Designer, developer, and serial starter of things based in Glasgow.
 
 I co-founded **Uncover Commerce**, where I build web and mobile experiences that people actually want to use. Before that (and alongside it), I've built and run **Nextfootball.com**, **Illicit Magazine**, **Founders Podcast**, and **Made By Logic** — so yeah, I've worn every hat from writing code to writing strategy decks, sometimes in the same afternoon.
 
